@@ -7,7 +7,8 @@ Polytech Montpellier, France
 
 # Contenu
 There is an implementation of classes and interface :
- * Vertex (Class) Edge (Abstract class)
+ * Vertex (Class)
+ * Edge (Abstract class)
  * DirectedEdge (Class)
  * UndirectedEdge (Class)
  * Graph (Interface)
